@@ -1,0 +1,26 @@
+@font-face {font-family: 'ProximaNovaA-Bold';src: url('webfonts/34BD93_0_0.eot');src: url('webfonts/34BD93_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/34BD93_0_0.woff2') format('woff2'),url('webfonts/34BD93_0_0.woff') format('woff'),url('webfonts/34BD93_0_0.ttf') format('truetype');}
+@font-face {font-family: 'ProximaNovaA-BoldIt';src: url('webfonts/34BD93_1_0.eot');src: url('webfonts/34BD93_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/34BD93_1_0.woff2') format('woff2'),url('webfonts/34BD93_1_0.woff') format('woff'),url('webfonts/34BD93_1_0.ttf') format('truetype');}
+@font-face {font-family: 'ProximaNovaA-Regular';src: url('webfonts/34BD93_2_0.eot');src: url('webfonts/34BD93_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/34BD93_2_0.woff2') format('woff2'),url('webfonts/34BD93_2_0.woff') format('woff'),url('webfonts/34BD93_2_0.ttf') format('truetype');}
+@font-face {font-family: 'ProximaNovaA-RegularIt';src: url('webfonts/34BD93_3_0.eot');src: url('webfonts/34BD93_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/34BD93_3_0.woff2') format('woff2'),url('webfonts/34BD93_3_0.woff') format('woff'),url('webfonts/34BD93_3_0.ttf') format('truetype');}
+@font-face {font-family: 'ProximaNovaS-Bold';src: url('webfonts/34BD93_4_0.eot');src: url('webfonts/34BD93_4_0.eot?#iefix') format('embedded-opentype'),url('webfonts/34BD93_4_0.woff2') format('woff2'),url('webfonts/34BD93_4_0.woff') format('woff'),url('webfonts/34BD93_4_0.ttf') format('truetype');}
+@font-face {font-family: 'ProximaNovaS-BoldIt';src: url('webfonts/34BD93_5_0.eot');src: url('webfonts/34BD93_5_0.eot?#iefix') format('embedded-opentype'),url('webfonts/34BD93_5_0.woff2') format('woff2'),url('webfonts/34BD93_5_0.woff') format('woff'),url('webfonts/34BD93_5_0.ttf') format('truetype');}
+@font-face {font-family: 'ProximaNovaS-Regular';src: url('webfonts/34BD93_6_0.eot');src: url('webfonts/34BD93_6_0.eot?#iefix') format('embedded-opentype'),url('webfonts/34BD93_6_0.woff2') format('woff2'),url('webfonts/34BD93_6_0.woff') format('woff'),url('webfonts/34BD93_6_0.ttf') format('truetype');}
+@font-face {font-family: 'ProximaNovaS-RegularIt';src: url('webfonts/34BD93_7_0.eot');src: url('webfonts/34BD93_7_0.eot?#iefix') format('embedded-opentype'),url('webfonts/34BD93_7_0.woff2') format('woff2'),url('webfonts/34BD93_7_0.woff') format('woff'),url('webfonts/34BD93_7_0.ttf') format('truetype');}
+@font-face {font-family: 'ProximaNova-Bold';src: url('webfonts/34BD93_8_0.eot');src: url('webfonts/34BD93_8_0.eot?#iefix') format('embedded-opentype'),url('webfonts/34BD93_8_0.woff2') format('woff2'),url('webfonts/34BD93_8_0.woff') format('woff'),url('webfonts/34BD93_8_0.ttf') format('truetype');}
+@font-face {font-family: 'ProximaNova-BoldIt';src: url('webfonts/34BD93_9_0.eot');src: url('webfonts/34BD93_9_0.eot?#iefix') format('embedded-opentype'),url('webfonts/34BD93_9_0.woff2') format('woff2'),url('webfonts/34BD93_9_0.woff') format('woff'),url('webfonts/34BD93_9_0.ttf') format('truetype');}
+@font-face {font-family: 'ProximaNova-Regular';src: url('webfonts/34BD93_A_0.eot');src: url('webfonts/34BD93_A_0.eot?#iefix') format('embedded-opentype'),url('webfonts/34BD93_A_0.woff2') format('woff2'),url('webfonts/34BD93_A_0.woff') format('woff'),url('webfonts/34BD93_A_0.ttf') format('truetype');}
+@font-face {font-family: 'ProximaNova-RegularIt';src: url('webfonts/34BD93_B_0.eot');src: url('webfonts/34BD93_B_0.eot?#iefix') format('embedded-opentype'),url('webfonts/34BD93_B_0.woff2') format('woff2'),url('webfonts/34BD93_B_0.woff') format('woff'),url('webfonts/34BD93_B_0.ttf') format('truetype');}
+
+
+.ProximaNovaA-Bold { font-family: ProximaNovaA-Bold; }
+.ProximaNovaA-BoldIt { font-family: ProximaNovaA-BoldIt; }
+.ProximaNovaA-Regular { font-family: ProximaNovaA-Regular; }
+.ProximaNovaA-RegularIt { font-family: ProximaNovaA-RegularIt; }
+.ProximaNovaS-Bold { font-family: ProximaNovaS-Bold; }
+.ProximaNovaS-BoldIt { font-family: ProximaNovaS-BoldIt; }
+.ProximaNovaS-Regular { font-family: ProximaNovaS-Regular; }
+.ProximaNovaS-RegularIt { font-family: ProximaNovaS-RegularIt; }
+.ProximaNova-Bold { font-family: ProximaNova-Bold; }
+.ProximaNova-BoldIt { font-family: ProximaNova-BoldIt; }
+.ProximaNova-Regular { font-family: ProximaNova-Regular; }
+.ProximaNova-RegularIt { font-family: ProximaNova-RegularIt; }
